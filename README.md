@@ -2,7 +2,7 @@
 
 **Data-Driven DVD Rental Store Optimization: SQL, Excel, and Power BI Analysis**  
 
-This project explores the **Sakila DVD Rental Dataset** to generate actionable business insights. Using **SQL**, **Excel**, and **Power BI**, we analyze customer behavior, film performance, staff productivity, and revenue trends to enable data-driven decision-making for DVD rental store owners.  
+This project explores the **Sakila DVD Rental Dataset** to generate actionable business insights. Using **SQL**, **Excel**, and **Power BI**, we analyze customer behavior, film performance, staff productivity, and revenue trends to enable data-driven decision-making for DVD rental store owner(s).  
 
 ---
 
